@@ -1,0 +1,9 @@
+body{
+	text-align: center;
+	font-size: 4mm;
+	font-family: 'Courier New', Courier, monospace;
+	background: url(imagen/fonfo.png);
+}
+li a{
+	color: white;
+}

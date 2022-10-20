@@ -1,0 +1,10 @@
+
+body{
+	text-align: left;
+	font-size: 3mm;
+	font-family: 'Courier New', Courier, monospace;
+	background: url("imagen/fondo2.png");
+}
+li a{
+	color:white;
+}
